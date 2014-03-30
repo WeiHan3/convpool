@@ -1,4 +1,4 @@
 convpool
 ========
 
-A 'convpool' type of layer to reduce memory usage
+A 'convpool' layer type aims to reduce memory usage
